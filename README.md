@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/wilso663/drum-kit-challenge](https://github.com/wilso663/simon-game-challenge)
-- Live Site URL: [https://festive-ride-812509.netlify.app/](https://festive-ride-812509.netlify.app/)
+- Solution URL: [https://github.com/wilso663/simon-game-challenge](https://github.com/wilso663/simon-game-challenge)
+- Live Site URL: [https://brave-shirley-099f61.netlify.app/](https://brave-shirley-099f61.netlify.app/)
 
 ## My process
 
