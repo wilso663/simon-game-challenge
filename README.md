@@ -51,7 +51,6 @@ The most helpful thing that I learned was using jQuery in place of adding click 
   userClickedPattern.push(userChosenColour);
   checkAnswer(userClickedPattern.length -1);
 });
-});
 ```
 The basic callback for setTimeout was helpful in simulating a timed enable/disable functionality. It was also nice to not have to create the animation state change with timers in CSS.
 ```javascript  
@@ -68,7 +67,6 @@ The basic callback for setTimeout was helpful in simulating a timed enable/disab
     setTimeout(() => {
       $('body').removeClass('game-over');
     }, 200);
-
   }
 }
 ```
